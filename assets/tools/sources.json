@@ -1,0 +1,91 @@
+[
+  {
+    "file": "aws.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg",
+    "size": 3743
+  },
+  {
+    "file": "oci.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg",
+    "size": 1244
+  },
+  {
+    "file": "windows.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg",
+    "size": 214
+  },
+  {
+    "file": "linux.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg",
+    "size": 193922
+  },
+  {
+    "file": "python.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+    "size": 2300
+  },
+  {
+    "file": "flask.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg",
+    "size": 9161
+  },
+  {
+    "file": "javascript.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg",
+    "size": 1144
+  },
+  {
+    "file": "powershell.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg",
+    "size": 1809
+  },
+  {
+    "file": "kibana.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg",
+    "size": 352
+  },
+  {
+    "file": "n8n.svg",
+    "source": "https://raw.githubusercontent.com/selfhst/icons/main/svg/n8n.svg",
+    "size": 1240
+  },
+  {
+    "file": "wazuh.svg",
+    "source": "https://raw.githubusercontent.com/selfhst/icons/main/svg/wazuh.svg",
+    "size": 269
+  },
+  {
+    "file": "pfsense.svg",
+    "source": "https://raw.githubusercontent.com/selfhst/icons/main/svg/pfsense.svg",
+    "size": 1293
+  },
+  {
+    "file": "nmap.png",
+    "source": "https://nmap.org/images/nmap-logo-256x256.png",
+    "size": 43979
+  },
+  {
+    "file": "fortigate.svg",
+    "source": "https://www.fortinet.com/content/dam/fortinet/images/general/fortinet-logo.svg",
+    "size": 1015
+  },
+  {
+    "file": "keepass.png",
+    "source": "https://keepass.info/favicon.ico"
+  },
+  {
+    "file": "grafana-original.svg",
+    "source": "https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg",
+    "size": 5690
+  },
+  {
+    "file": "azure-original.svg",
+    "source": "https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg",
+    "size": 1713
+  },
+  {
+    "file": "zabbix-original.svg",
+    "source": "https://raw.githubusercontent.com/selfhst/icons/main/svg/zabbix.svg",
+    "size": 363
+  }
+]
